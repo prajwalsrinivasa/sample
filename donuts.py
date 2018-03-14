@@ -4,4 +4,4 @@ def donuts(number):
     else:
         return str(number)
 
-print('the no of donuts is',donuts(50))    
+print('the no of donuts is',donuts(30))    
